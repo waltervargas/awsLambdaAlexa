@@ -1,0 +1,7 @@
+MyMessageIntent send {reindeer|Message}
+MyMessageIntent send {breakfast lunch dinner|Message}
+MyMessageIntent send {There are so many things that I could say here|Message}
+WhatsMyMessageIntent what's my message
+WhatsMyMessageIntent what is my message
+WhatsMyMessageIntent what was my message
+WhatsMyMessageIntent what is my slack message
