@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "intent": "MyMessageIntent",
+            "slots": [
+                {
+                    "name": "Message",
+                    "type": "LITERAL"
+                }
+            ]
+        },
+        {
+            "intent": "WhatsMyMessageIntent",
+            "slots": []
+        }
+    ]
+}
