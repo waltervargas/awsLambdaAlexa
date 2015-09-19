@@ -2,7 +2,7 @@ var https = require('https');
 var options = {
   host: 'hooks.slack.com',
   port: 443,
-  path: '/services/T0AV02FQC/B0AV096TV/1pOQwX72DRbyrDnppb6ekgyz',
+  path: '/services/[blah]',
   method: 'POST'
 };
 
